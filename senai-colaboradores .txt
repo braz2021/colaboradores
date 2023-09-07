@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+<link rel="stylesheet" href="bluestyle.css">
+</head>
+<body>
+
+<h1>Hello world!</h1>
+<p> Seja Bem Vindo ao Git Repo.</p>
+<p> Este e o primeiro Teste no GIT REP </p>
+
+</body>
+</html
