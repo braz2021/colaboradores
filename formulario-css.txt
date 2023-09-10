@@ -1,0 +1,10 @@
+fieldset {
+    border: 1px solid #bd2828;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 3px; /* Margens automáticas para centralização horizontal */
+    width: 60%; /* Defina a largura desejada */
+    background-color: #f9f9f9;
+    font-size: 16px;
+    color: #333;
+  }
